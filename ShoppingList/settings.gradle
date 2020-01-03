@@ -1,2 +1,2 @@
-include ':ap
+include ':app'
 rootProject.name='Shopping List'
