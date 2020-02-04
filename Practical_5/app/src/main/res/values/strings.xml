@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practical_5</string>
+    <string name="action_settings">Settings</string>
+    <string name="t1_order">You ordered Rick and Morty T-Shirt</string>
+    <string name="t2_order">You ordered Franklin High T-Shirt</string>
+    <string name="t3_order">You ordered House Party T-Shirt</string>
+    <string name="t4_order">You ordered Star Wars T-Shirt</string>
+</resources>
