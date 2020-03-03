@@ -5,4 +5,11 @@
     <string name="t2_order">You ordered Franklin High T-Shirt</string>
     <string name="t3_order">You ordered House Party T-Shirt</string>
     <string name="t4_order">You ordered Star Wars T-Shirt</string>
+    <string name="action_order_message">You selected Order.</string>
+    <string name="action_status_message">You selected Status.</string>
+    <string name="action_favorites_message">You selected Favorites.</string>
+    <string name="action_contact_message">You selected Contact.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
